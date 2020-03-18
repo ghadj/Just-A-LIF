@@ -49,5 +49,5 @@ for Rm_Ie in list_Rm_Ie:
 figure()
 plot(list_Ie, r_isi)
 xlabel('I (nA)')
-ylabel('r_isi (Hz)')
+ylabel('Interspike-Interval Firing rate (Hz)')
 show()
