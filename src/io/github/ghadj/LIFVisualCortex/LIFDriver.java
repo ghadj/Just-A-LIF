@@ -12,7 +12,7 @@ import java.util.List;
  * javac -d ./bin ./src/io/github/ghadj/LIFVisualCortex/*.java
  * 
  * Run from Simple-Neural-Network/ directory 
- * java -cp ./bin io.github.ghadj.LIFVisualCortex.LIFNetworkDriver
+ * java -cp ./bin io.github.ghadj.LIFVisualCortex.LIFDriver
  * 
  * @author George Hadjiantonis
  * @since 18-03-2020
