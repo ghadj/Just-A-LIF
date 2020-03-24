@@ -1,4 +1,4 @@
-package io.github.ghadj.LIFVisualCorex;
+package io.github.ghadj.LIFVisualCortex;
 
 import java.security.InvalidParameterException;
 import java.util.ArrayList;

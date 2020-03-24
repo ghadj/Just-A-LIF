@@ -1,4 +1,4 @@
-package io.github.ghadj.LIFVisualCorex;
+package io.github.ghadj.LIFVisualCortex;
 
 import java.io.FileWriter;
 import java.io.IOException;
@@ -8,11 +8,11 @@ import java.util.List;
 /**
  * Driver for LIF class.
  * 
- * Compile from LIF-Visual-Cortex/ directory javac -d ./bin
- * ./src/io/github/ghadj/LIFVisualCortex/*.java
+ * Compile from LIF-Visual-Cortex/ directory 
+ * javac -d ./bin ./src/io/github/ghadj/LIFVisualCortex/*.java
  * 
- * Run from Simple-Neural-Network/ directory java -cp ./bin
- * io.github.ghadj.LIFVisualCortex.LIFNetworkDriver
+ * Run from Simple-Neural-Network/ directory 
+ * java -cp ./bin io.github.ghadj.LIFVisualCortex.LIFNetworkDriver
  * 
  * @author George Hadjiantonis
  * @since 18-03-2020
