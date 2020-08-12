@@ -11,7 +11,7 @@ import java.util.List;
  * Compile from LIF-Visual-Cortex/ directory 
  * javac -d ./bin ./src/io/github/ghadj/LIFVisualCortex/*.java
  * 
- * Run from Simple-Neural-Network/ directory 
+ * Run from LIF-Visual-Cortex/ directory 
  * java -cp ./bin io.github.ghadj.LIFVisualCortex.LIFDriver
  * 
  * @author George Hadjiantonis
